@@ -119,7 +119,7 @@
                 _redirect();
             }
         }
-    }
+    };
     window.jsHelper = window.$jH = jsHelper;
 })(window);
 
